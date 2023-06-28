@@ -1,0 +1,1 @@
+Developed a serverless app backend using Node.js and AWS, incorporating API Gateway, Lambda Function, CloudWatch, and DynamoDB for CRUD operations.
